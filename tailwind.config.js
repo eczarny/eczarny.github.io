@@ -2,11 +2,8 @@
 module.exports = {
   content: ["./public/**/*.{html,js}"],
   theme: {
-    container: {
-      center: true,
-    },
     fontFamily: {
-      'sans': ['Avenir', 'Arial', 'Helvetica', 'sans-serif'],
+      'sans': ['Nunito Sans', 'Arial', 'sans-serif'],
     },
   },
   plugins: [],
